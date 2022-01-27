@@ -1,0 +1,6 @@
+framework module Pods_Beepz {
+  umbrella header "Pods-Beepz-umbrella.h"
+
+  export *
+  module * { export * }
+}
